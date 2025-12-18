@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 12,
+      "date": "2025-12-18",
+      "category": "achievement",
+      "title": "스카이큐브 기술서적, 교보문고 바로출판POD 운영팀의 PICK 선정",
+      "summary": "스카이큐브의 기술서적『Q-Sovereignty™ (공중권과 디지털 문명의 설계도)』가 교보문고 바로출판POD 운영팀의 PICK – 지식형 콘텐츠 편(28)에 공식 선정되었습니다.",
+      "image": "",
+      "link": "news/news-0013.html"
+    },
+    {
       "id": 11,
       "date": "2025-11-25",
       "category": "event",
