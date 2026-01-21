@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 13,
+      "date": "2026-01-21",
+      "category": "achievement",
+      "title": "🚀 스카이큐브, 혁신성장형 벤처기업 확인 획득",
+      "summary": "주식회사 스카이큐브가 「벤처기업육성에 관한 특별법」에 따라 혁신성장형 벤처기업으로 공식 확인을 받았습니다. 기술 기반 경쟁력, 사업 모델의 혁신성, 중·장기 성장 가능성을 공식적으로 인정받았습니다.",
+      "image": "images/news-0014.png",
+      "link": "news/news-0014.html"
+    },
+    {
       "id": 12,
       "date": "2025-12-18",
       "category": "achievement",
