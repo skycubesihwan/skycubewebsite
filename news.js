@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 15,
+      "date": "2026-03-03",
+      "category": "achievement",
+      "title": "스카이큐브, 코리아스타트업포럼과의 인터뷰",
+      "summary": "김시환 대표가 코리아스타트업포럼(KOSFO)과의 인터뷰에서 성장 과정과 협력 사례를 소개했습니다. 인터뷰는 2026년 2월 27일 발간된 「2025 코리아스타트업포럼(KOSFO) 백서」에 수록되었습니다.",
+      "image": "",
+      "link": "news/news-0016.html"
+    },
+    {
       "id": 14,
       "date": "2026-02-06",
       "category": "achievement",
