@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 16,
+      "date": "2026-03-30",
+      "category": "achievement",
+      "title": "스카이큐브, 부산 블록체인 허브 입주기업 선정… BIFC b-space로 이전",
+      "summary": "스카이큐브가 부산광역시 '부산 블록체인 허브' 입주기업으로 최종 선정되어, 동일 BIFC 내 블록체인 허브(b-space)로 4월 1일부로 거점을 이전합니다. 블록체인 기술 고도화와 사업 확장에 속도를 낼 계획입니다.",
+      "image": "",
+      "link": "news/news-0017.html"
+    },
+    {
       "id": 15,
       "date": "2026-03-03",
       "category": "achievement",
