@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 17,
+      "date": "2026-04-10",
+      "category": "achievement",
+      "title": "스카이큐브, 부산상공회의소 공식 월간 기관지에 소개",
+      "summary": "스카이큐브가 부산상공회의소 공식 기관지 「부산상공회의SHOW」 4월호의 우수 스타트업 코너 'LOOK AT ME'에 선정되어 20~21페이지에 소개되었습니다.",
+      "image": "",
+      "link": "news/news-0018.html"
+    },
+    {
       "id": 16,
       "date": "2026-03-30",
       "category": "achievement",
