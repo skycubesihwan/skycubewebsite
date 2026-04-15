@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 18,
+      "date": "2026-04-15",
+      "category": "achievement",
+      "title": "SKYCUBE, '부산 글로벌 스타트업 게이트웨이 2026' 선정",
+      "summary": "SKYCUBE(스카이큐브)가 부산창조경제혁신센터가 주관하는 글로벌 진출 프로그램 '부산 글로벌 스타트업 게이트웨이 2026'에 최종 선정되었습니다. Plug and Play와 협력하여 실리콘밸리 진출과 글로벌 네트워크 확장을 지원받습니다.",
+      "image": "",
+      "link": "news/news-0019.html"
+    },
+    {
       "id": 17,
       "date": "2026-04-10",
       "category": "achievement",
