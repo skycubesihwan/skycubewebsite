@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 19,
+      "date": "2026-05-13",
+      "category": "event",
+      "title": "SkyCube, Plug and Play Silicon Valley Summit 2026 참가",
+      "summary": "스카이큐브가 미국 실리콘밸리에서 개최되는 Plug and Play Silicon Valley Summit 2026에 데모 스타트업으로 참가합니다. 5월 19일–21일 서니베일에서 UAM·드론을 위한 Digital Sky Infrastructure 비전을 소개할 예정입니다.",
+      "image": "",
+      "link": "news/news-0020.html"
+    },
+    {
       "id": 18,
       "date": "2026-04-15",
       "category": "achievement",
