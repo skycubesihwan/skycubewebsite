@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 20,
+      "date": "2026-05-24",
+      "category": "event",
+      "title": "SKYCUBE, 미국 Plug and Play Summit 2026서 미래 공중 인프라 비전 소개",
+      "summary": "스카이큐브가 미국 Plug and Play Silicon Valley Summit 2026에 참가해 글로벌 무대에 혁신 기술을 선보였습니다. AI 기반 Digital Sky Infrastructure와 공중공간 운영 기술 비전을 소개하며 글로벌 모빌리티 및 항공 분야 관계자들의 뜨거운 관심을 받았습니다.",
+      "image": "images/news-0021.png",
+      "link": "news/news-0021.html"
+    },
+    {
       "id": 19,
       "date": "2026-05-13",
       "category": "event",
