@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>에어택시 공중권 게임</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="game-shell">
+      <section class="topbar" aria-label="게임 현황">
+        <div class="brand">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <div>
+            <div class="title-row">
+              <h1>스카이큐브 에어택시 시뮬레이터</h1>
+              <span class="phase-pill" id="phasePill">턴 1</span>
+            </div>
+            <p id="statusText">UAM 좌우의 탑승객 중 한 명을 선택하세요.</p>
+          </div>
+        </div>
+
+        <div class="meters" aria-live="polite">
+          <div class="meter">
+            <span>보유금</span>
+            <strong id="balance">500원</strong>
+          </div>
+          <div class="meter">
+            <span>통행료</span>
+            <strong id="routeCost">0원</strong>
+          </div>
+        </div>
+        <a class="site-link" href="../index.html">SKYCUBE Home</a>
+      </section>
+
+      <section class="board-wrap" aria-label="도시 상공 지도">
+        <canvas id="gameCanvas" width="1280" height="660" aria-label="도시 위 공중권 지도"></canvas>
+        <div id="floatingLedger" class="floating-ledger" aria-hidden="true"></div>
+      </section>
+    </main>
+
+    <script src="./game.js?v=20260606-ending-loop-fix"></script>
+  </body>
+</html>
