@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>맨하탄 스카이빌딩 시뮬레이터</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="game-shell">
+      <section class="topbar" aria-label="게임 현황">
+        <div class="brand">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <div>
+            <div class="title-row">
+              <h1>맨하탄 스카이빌딩 시뮬레이터</h1>
+              <span class="phase-pill" id="phasePill">턴 1</span>
+            </div>
+            <p id="statusText">개발권 시세는 턴마다 조금씩 변합니다. 사거나 안 사기로 턴을 넘기고, 턴 끝마다 양쪽에 3억이 들어옵니다.</p>
+          </div>
+        </div>
+
+        <div class="meters" aria-live="polite">
+          <div class="meter">
+            <span>내 자금</span>
+            <strong id="balance">25억</strong>
+          </div>
+          <div class="meter">
+            <span>개구쟁이 자금</span>
+            <strong id="rivalBalance">25억</strong>
+          </div>
+          <div class="meter">
+            <span>내 건물</span>
+            <strong id="towerHeight">30층</strong>
+          </div>
+          <div class="meter">
+            <span>개구쟁이</span>
+            <strong id="rivalHeight">30층</strong>
+          </div>
+          <div class="meter">
+            <span>목표</span>
+            <strong id="targetHeight">--층</strong>
+          </div>
+          <div class="meter">
+            <span>내 매입권</span>
+            <strong id="rightsOwned">0층</strong>
+          </div>
+          <button id="skipButton" class="skip-button" type="button">이번 턴 안 사기</button>
+          <button id="resetButton" class="reset-button" type="button">새 게임</button>
+        </div>
+        <a class="site-link" href="../../games.html">SKYCUBE Games</a>
+      </section>
+
+      <section class="board-wrap" aria-label="맨하탄 공중권 지도">
+        <canvas id="gameCanvas" width="1280" height="660" aria-label="맨하탄 공중권 구매 지도"></canvas>
+        <div id="floatingLedger" class="floating-ledger" aria-hidden="true"></div>
+      </section>
+    </main>
+
+    <script src="./game.js?v=20260702-ending-label"></script>
+  </body>
+</html>

@@ -32,7 +32,7 @@ const siteConfig = {
       { "label": "Home", "link": "index.html" },
       { "label": "Mission", "link": "mission.html" },
       { "label": "News", "link": "news.html" },
-      { "label": "Game", "link": "game/airtaxi_game.html" },
+      { "label": "Games", "link": "games.html" },
       { "label": "Contact", "link": "contact.html" }
     ]
   },
