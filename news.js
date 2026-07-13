@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 23,
+      "date": "2026-07-08",
+      "category": "achievement",
+      "title": "[SKYCUBE 신규 특허 권리 확보] 미래 모빌리티를 위한 디지털 공중 인프라의 중심",
+      "summary": "SKYCUBE가 현실-가상 통합 계측 및 표준화 관련 신규 등록 특허 권리를 확보하며, 디지털 공중 인프라(Digital Sky Infrastructure) 구축을 위한 중요한 이정표를 세웠습니다.",
+      "image": "",
+      "link": "news/news-0024.html"
+    },
+    {
       "id": 22,
       "date": "2026-07-03",
       "category": "technology",
