@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 24,
+      "date": "2026-08-03",
+      "category": "achievement",
+      "title": "[SKYCUBE 스마트도시 규제신속확인 완료] 저고도 디지털 공간관리 실증을 위한 새로운 단계",
+      "summary": "SKYCUBE가 개발 중인 「도시 저고도 3차원 디지털 통행권 발급·검증 기반 공간관리 서비스」가 스마트도시 규제샌드박스 규제신속확인 절차를 완료했습니다.",
+      "image": "",
+      "link": "news/news-0025.html"
+    },
+    {
       "id": 23,
       "date": "2026-07-08",
       "category": "achievement",
