@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 25,
+      "date": "2026-08-24",
+      "category": "achievement",
+      "title": "스카이큐브, 'AI 저고도 공역 플랫폼' 후속 국가 R&D 기획 참여",
+      "summary": "스카이큐브와 국립한국해양대학교가 BISTEP의 「2026년도 제3차 대외협력R&D기획지원사업」 지원대상으로 선정되어 부산 항만·해양 저고도 공중공간을 대상으로 후속 국가 R&D 상세기획에 참여합니다.",
+      "image": "",
+      "link": "news/news-0026.html"
+    },
+    {
       "id": 24,
       "date": "2026-08-03",
       "category": "achievement",
