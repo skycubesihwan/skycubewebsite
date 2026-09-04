@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 26,
+      "date": "2026-09-04",
+      "category": "achievement",
+      "title": "SKYCUBE, 조건부 통행권 검증 특허 전용실시권 설정등록 완료",
+      "summary": "SKYCUBE가 이동체의 위치·경로·시간·정책 조건을 검증하고 권한 상태를 디지털 증표로 발급·기록할 수 있는 등록특허(제10-3014450호)의 전용실시권 설정등록을 완료했습니다.",
+      "image": "",
+      "link": "news/news-0027.html"
+    },
+    {
       "id": 25,
       "date": "2026-08-24",
       "category": "achievement",
