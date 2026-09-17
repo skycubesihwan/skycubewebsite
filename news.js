@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 27,
+      "date": "2026-09-17",
+      "category": "achievement",
+      "title": "스카이큐브, 금융투자협회 주최 제27회 MUST Round에서 미국 공중권(Air Rights) 특허출원 21개 청구항 전부에 대한 허여 결정 첫 공개",
+      "summary": "SKYCUBE가 제27회 MUST Round에서 미국 공중권 특허출원의 총 21개 청구항에 대한 USPTO 허여 결정 사실을 처음 공개하고, Q-Block® 기반 저고도 공중공간 운영 플랫폼과 드론·UAM 분야의 사업화 전략을 소개했습니다.",
+      "image": "",
+      "link": "news/news-0028.html"
+    },
+    {
       "id": 26,
       "date": "2026-09-04",
       "category": "achievement",
