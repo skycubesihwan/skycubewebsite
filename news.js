@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 28,
+      "date": "2026-10-05",
+      "category": "achievement",
+      "title": "SKYCUBE, 한국공항공사 상생형 창업·벤처기업 지원사업 선정 및 협약 체결",
+      "summary": "SKYCUBE가 2026년 한국공항공사 상생형 창업·벤처기업 지원사업에 선정돼 한국표준협회와 협약을 체결했습니다. Q-Block을 기반으로 공항 드론 임무의 안전·보안 조건을 사전에 검토할 수 있는 웹 기반 PoC 시뮬레이터를 개발합니다.",
+      "image": "",
+      "link": "news/news-0029.html"
+    },
+    {
       "id": 27,
       "date": "2026-09-17",
       "category": "achievement",
