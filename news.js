@@ -4,6 +4,15 @@
 const newsData = {
   "news": [
     {
+      "id": 29,
+      "date": "2026-10-11",
+      "category": "achievement",
+      "title": "스카이큐브, 스마트 글래스 기반 공중권 시각화·통제 기술 전용실시권 확보",
+      "summary": "스카이큐브가 스마트 글래스 및 이동체 기반 공중권 시각화·통제 기술 특허(제10-3027937호)의 전용실시권 설정등록을 완료했습니다. Q-Block® 기반 공간정보 기술과의 연계를 통해 현실·가상 공간을 연결하는 디지털 공중 인프라 기술 기반을 강화합니다.",
+      "image": "images/news-0030.png",
+      "link": "news/news-0030.html"
+    },
+    {
       "id": 28,
       "date": "2026-10-05",
       "category": "achievement",
